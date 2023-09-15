@@ -139,7 +139,7 @@ figure {
 
 figure img {
     max-width: 100%;
-    height: auto;
+    height: 200px;
     border-radius: var(--border-radius-small);
 }
 
